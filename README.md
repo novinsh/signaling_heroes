@@ -1,2 +1,2 @@
-# signaling_heros
+# signaling_heroes
 HackJunction'18
