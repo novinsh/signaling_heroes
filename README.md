@@ -2,7 +2,10 @@
 
 ![Eric Doing Machine Learning for Ericsson](eric.png)
 
-Challenge repository with dataset and instructions: https://github.com/dwmh/signaling_heroes
+## Task
+
+Classification of Attack/Non-attack messages based on dataset provided by the Ericsson.
+The Challenge repository with dataset and instructions: https://github.com/dwmh/signaling_heroes
 
 ## Models:
 
