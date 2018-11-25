@@ -30,5 +30,8 @@ The whole pipeline is at [signaling_heroes_dt.ipynb](https://github.com/novinsh/
 ## Requirements
 
 - Jupyter Notebook
-- Plotly
 - Scikit-Learn
+- Plotly
+- Pandas
+- Numpy
+- tqdm_notebook
