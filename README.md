@@ -23,3 +23,12 @@ Challenge repository with dataset and instructions: https://github.com/dwmh/sign
 - [PCA of test data (red elements are predictions)](pca_testdata.html)
 - [PCA of train data (red elements are true labels)](pca_testdata.html)
 
+## Instructions to run
+
+The whole pipeline is at [signaling_heroes_dt.ipynb](https://github.com/novinsh/signaling_heroes/blob/master/signaling_heroes_dt.ipynb). The feature selection is a separate process to find the relevant features (you can find in another notebook).
+
+## Requirements
+
+- Jupyter Notebook
+- Plotly
+- Scikit-Learn
